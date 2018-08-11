@@ -13,4 +13,4 @@
 
 - [Go channels are bad](https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/)
 
-- [c tail calls](https://david.wragg.org/blog/2014/02/c-tail-calls-1.html)
+- [C does not always perform tail calls because of stack variables](https://david.wragg.org/blog/2014/02/c-tail-calls-1.html)
